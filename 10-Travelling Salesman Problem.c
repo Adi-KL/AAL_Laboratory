@@ -21,9 +21,10 @@ int tsp(int graph[N][N], int visited[], int currPos, int n, int count, int cost,
 int main() {
     int graph[N][N] = {
         {0, 10, 15, 20},
-        {10, 0, 35, 25},
-        {15, 35, 0, 30},
-        {20, 25, 30, 0}
+        {10, 20, 30, 25},
+        {20, 30, 15, 35},
+        {25, 45, 30, 10}
+    };
     };
 
     int visited[N];
