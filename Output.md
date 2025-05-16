@@ -17,7 +17,7 @@
 ![image](https://github.com/user-attachments/assets/03c2df9b-7877-4560-b64b-9180d8fe374a)
 
 # Lab 4(B)-Kruskals Algorithm
-
+![image](https://github.com/user-attachments/assets/90d77fc1-57d6-42be-b10f-e2e2d3b8acc3)
 
 # Lab 5-Insertion Sort
 
@@ -26,6 +26,8 @@
 # Lab 7-Heap Sort
 
 # Lab 8-Floyd's Algorithm
+![image](https://github.com/user-attachments/assets/48cdf41d-9b04-476f-8240-6d56868d2844)
+
 
 # Lab 9- N Queens Problem
 
